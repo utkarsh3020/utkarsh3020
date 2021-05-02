@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px">,<br>I am Utkarsh Gupta.
 
 ### I am a second year Computer Science student at Anand International College of Engineering,Jaipur.
@@ -30,9 +29,9 @@
 
 ###### Languages
 
-![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
-![Dart](https://img.shields.io/badge/-Dart-2AB7F6?style=flat-square&logo=Dart)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML](https://img.shields.io/badge/-html-black?style=flat-square&logo=html)
+![CSS](https://img.shields.io/badge/-css-2AB7F6?style=flat-square&logo=css)
+![Javascript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-black?logo=C%2B%2B&logoColor=blue&style=flat-button)
 
 
@@ -48,7 +47,6 @@
 
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
 
-![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon)
 
 ### Some of my GitHub Stats
 
