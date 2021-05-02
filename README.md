@@ -53,6 +53,6 @@
 ### Some of my GitHub Stats
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=saumyajain125&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
+    <img src="https://github-readme-stats.vercel.app/api?username=utkarsh3020&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh3020&theme=midnight-purple">
 </p>
