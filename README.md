@@ -14,10 +14,11 @@
 ### Tech Stacks
 
 ###### Learning
+
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
-![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon)
 
 ###### Front-End Stack
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ###### Back-End Stack
@@ -39,7 +40,6 @@
 
 ###### Version Control
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
