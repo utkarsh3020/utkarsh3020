@@ -33,7 +33,6 @@
 ![HTML](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-2AB7F6?style=flat-square&logo=css3)
 ![Javascript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=javascript)
-![Reactjs](https://img.shields.io/badge/-React-black?logo=C%2B%2B&logoColor=blue&style=flat-button)
 
 
 ### List of things I have worked with
