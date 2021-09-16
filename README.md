@@ -15,11 +15,12 @@
 
 ###### Learning
 
-![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
+![Django](https://img.shields.io/badge/-Django-00599C?style=flat-square&logo=Django)
 
 ###### Front-End Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ###### Back-End Stack
 
@@ -33,7 +34,6 @@
 ![HTML](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-2AB7F6?style=flat-square&logo=css3)
 ![Javascript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
 ### List of things I have worked with
