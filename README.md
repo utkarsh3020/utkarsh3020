@@ -15,7 +15,7 @@
 
 ###### Learning
 
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=Django)
+![Django](https://img.shields.io/badge/-Django-FCFF33?style=flat-square&logo=Django)
 
 ###### Front-End Stack
 
