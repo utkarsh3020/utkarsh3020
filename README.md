@@ -1,6 +1,6 @@
-# Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px">,<br>I am Utkarsh Gupta.
+# Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px" align="center">,<br>I am Utkarsh Gupta.
 
-### I am a second year Computer Science student at Anand International College of Engineering,Jaipur.
+### I am a third year Computer Science student at Anand International College of Engineering,Jaipur.
 
 ### I am currently learning Web Designing and Developing.
 
