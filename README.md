@@ -2,7 +2,7 @@
 
 ### I am a third year Computer Science student at Anand International College of Engineering,Jaipur.
 
-### I am currently learning Web Designing and Developing.
+### Web Developer
 
 #### Connect with me on -
 
