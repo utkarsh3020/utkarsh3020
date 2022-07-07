@@ -1,6 +1,6 @@
 # Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Utkarsh Gupta.
 
-### I am a third year Computer Science student at Anand International College of Engineering,Jaipur.
+### I am pursuing Bachelor of Technology from Anand International College of Engineering,Jaipur. My specialization in Computer Science and Engineering.
 
 ### Web Developer
 
