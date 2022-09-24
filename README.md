@@ -19,7 +19,10 @@
 
 ###### Front-End Stack
 
+![HTML](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-css-2AB7F6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-sass-2AB7F6?style=flat-square&logo=sass)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ###### Back-End Stack
@@ -31,8 +34,8 @@
 
 ###### Languages
 
-![HTML](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-css-2AB7F6?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-c-plus-plus-E34A86?style=flat-square&logo=cpp)
+![Python](https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=python)
 ![Javascript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=javascript)
 
 
