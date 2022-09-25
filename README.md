@@ -1,54 +1,55 @@
-# Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Utkarsh Gupta.
+<h2 style="text-align: center">Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Utkarsh Gupta.</h2>
 
-### I am pursuing Bachelor of Technology from Anand International College of Engineering,Jaipur. My specialization in Computer Science and Engineering.
 
-### Web Developer
+### Pursuing Bachelor of Technology from Anand International College of Engineering,Jaipur,specialization in Computer Science and Engineering.
+<br>
+<h3 style="text-align: center; font-weight: bold; font-family: Cursive">Full Stack Developer</h3>
+<br>
 
 #### Connect with me on -
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/utkarsh-gupta-209799204)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/utkarsh__gupta._/)
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:er.utkarshguptaa@gmail.com)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/utkarshguptta/)
+[<img src ="https://img.shields.io/badge/Mail-Here-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:er.utkarshguptaa@gmail.com)
 
 
 ### Tech Stacks
 
-###### Learning
+##### Learning
 
-![Django](https://img.shields.io/badge/-Django-406343?style=flat-square&logo=Django)
+![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=curve-square&logo=typescript)
 
-###### Front-End Stack
+##### Front-End Stack
 
-![HTML](https://img.shields.io/badge/-html-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-css-2AB7F6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-sass-2AB7F6?style=flat-square&logo=sass)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML](https://img.shields.io/badge/-HTML5-fff?style=flat-curve&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-2AB7F6?style=flat-curve&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-curve&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-curve&logo=sass)
+![Javascript](https://img.shields.io/badge/-JavaScript-323330?style=flat-curve&logo=javascript)
+![React](https://img.shields.io/badge/-ReactJS-black?style=flat-curve&logo=react)
 
-###### Back-End Stack
+##### Back-End Stack
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-curve&logo=Firebase)
 
 
-###### Languages
+##### Programming Languages
 
-![C++](https://img.shields.io/badge/-c-plus-plus-E34A86?style=flat-square&logo=cpp)
-![Python](https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=python)
-![Javascript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-306998?style=flat-curve&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-FFE873?style=flat-curve&logo=python)
+![Javascript](https://img.shields.io/badge/-JavaScript-323330?style=flat-curve&logo=javascript)
 
 
 ### List of things I have worked with
 
-###### Version Control
+##### Version Control
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat-curve&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-curve&logo=github)
 
+##### Tools
+![VsCode](https://img.shields.io/badge/-VsCode-181717?style=flat-curve&logo=vs)
 
-###### Devop skills
-
-![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
 
 
 ## 📊 My Github Stats
