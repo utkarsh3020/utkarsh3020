@@ -24,7 +24,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-fff?style=flat-curve&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-2AB7F6?style=flat-curve&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-curve&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-curve&logo=sass)
+![Sass](https://img.shields.io/badge/-Sass-eee?style=flat-curve&logo=sass)
 ![Javascript](https://img.shields.io/badge/-JavaScript-323330?style=flat-curve&logo=javascript)
 ![React](https://img.shields.io/badge/-ReactJS-black?style=flat-curve&logo=react)
 
