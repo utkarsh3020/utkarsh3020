@@ -1,9 +1,9 @@
-<h2 style="text-align: center">Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Utkarsh Gupta.</h2>
+<h2 align="center">Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Utkarsh Gupta.</h2>
 
 
 ### Pursuing Bachelor of Technology from Anand International College of Engineering,Jaipur,specialization in Computer Science and Engineering.
 <br>
-<h3 style="text-align: center; font-weight: bold; font-family: Cursive">Full Stack Developer</h3>
+<h3 align="center"; font-weight: "bold"; font-family: "Cursive">Full Stack Developer</h3>
 <br>
 
 #### Connect with me on -
