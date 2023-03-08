@@ -36,7 +36,6 @@
 ##### Programming Languages
 
 ![C++](https://img.shields.io/badge/-C++-306998?style=flat-curve&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-FFE873?style=flat-curve&logo=python)
 ![Javascript](https://img.shields.io/badge/-JavaScript-323330?style=flat-curve&logo=javascript)
 
 
