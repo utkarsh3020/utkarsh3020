@@ -47,7 +47,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-curve&logo=github)
 
 ##### Tools
-![VsCode](https://img.shields.io/badge/-VsCode-181717?style=flat-curve&logo=code)
+![VsCode](https://img.shields.io/badge/-VsCode-181717?style=flat-curve&logo=VS)
 
 
 
