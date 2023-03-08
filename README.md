@@ -31,6 +31,7 @@
 ##### Back-End Stack
 
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-curve&logo=Firebase)
+![Node JS](https://img.shields.io/badge/-NodeJs-215732?style=flat-curve&logo=node)
 
 
 ##### Programming Languages
