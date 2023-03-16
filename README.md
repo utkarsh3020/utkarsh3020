@@ -17,7 +17,7 @@
 
 ##### Learning
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=curve-square&logo=typescript)
+![Express](https://img.shields.io/badge/-express.js-215732?style=curve-square&logo=express)
 
 ##### Front-End Stack
 
@@ -26,11 +26,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-curve&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-eee?style=flat-curve&logo=sass)
 ![Javascript](https://img.shields.io/badge/-JavaScript-323330?style=flat-curve&logo=javascript)
-![React](https://img.shields.io/badge/-ReactJS-black?style=flat-curve&logo=react)
+![React](https://img.shields.io/badge/-React.js-black?style=flat-curve&logo=react)
 
 ##### Back-End Stack
 
-![Node](https://img.shields.io/badge/-NodeJS-215732?style=flat-curve&logo=node.js)
+![Node](https://img.shields.io/badge/-Node.js-215732?style=flat-curve&logo=node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-curve&logo=Firebase)
 
 
