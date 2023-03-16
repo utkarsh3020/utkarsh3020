@@ -26,7 +26,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-curve&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-eee?style=flat-curve&logo=sass)
 ![Javascript](https://img.shields.io/badge/-JavaScript-323330?style=flat-curve&logo=javascript)
-![React](https://img.shields.io/badge/-React Js-black?style=flat-curve&logo=react)
+![React](https://img.shields.io/badge/-ReactJs-black?style=flat-curve&logo=react)
 
 ##### Back-End Stack
 
