@@ -1,9 +1,9 @@
 <h2 align="center">Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Utkarsh Gupta.</h2>
 
 
-### Pursuing Bachelor of Technology from Anand International College of Engineering,Jaipur,specialization in Computer Science and Engineering.
+### I am a skilled MERN Stack developer with 1.5 years of experience in building robust web applications. My expertise lies in developing scalable and efficient solutions using MongoDB, Express.js, React.js, and Node.js. With a strong foundation in both front-end and back-end technologies.
 <br>
-<h3 align="center"; font-weight: "bold"; font-family: "Cursive">Full Stack Developer</h3>
+<h3 align="center"; font-weight: "bold"; font-family: "Cursive">MERN Stack Developer</h3>
 <br>
 
 #### Connect with me on -
@@ -17,8 +17,6 @@
 
 ##### Learning
 
-![Express](https://img.shields.io/badge/-express.js-215732?style=curve-square&logo=express)
-
 ##### Front-End Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-fff?style=flat-curve&logo=html5)
@@ -31,6 +29,7 @@
 ##### Back-End Stack
 
 ![Node](https://img.shields.io/badge/-Node.js-215732?style=flat-curve&logo=node.js)
+![Express](https://img.shields.io/badge/-express.js-215732?style=curve-square&logo=express)
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-curve&logo=Firebase)
 
 
