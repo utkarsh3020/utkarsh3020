@@ -56,5 +56,6 @@
   <br/>
     <a href="https://github.com/utkarsh3020/github-readme-stats"><img alt="Utkarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=utkarsh3020&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/utkarsh3020/github-readme-stats"><img alt="Utkarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh3020&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <br/>
   <a href="https://github.com/utkarsh3020/github-readme-stats"><img alt="Utkarsh's Top Languages" src="https://github-profile-trophy.vercel.app/?username=utkarsh3020&theme=radical" /></a>
   <br/>
