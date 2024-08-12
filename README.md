@@ -3,8 +3,6 @@
 
 ### I am a passionate MERN stack web developer who loves creating scalable and efficient web applications. I'm enthusiastic about learning new technologies and solving real-world problems through innovative solutions.
 <br>
-<!-- <h3 align="center"; font-weight: "bold"; font-family: "Cursive">MERN Stack Developer</h3> -->
-<!-- <br> -->
 
 #### Connect with me on -
 
@@ -16,47 +14,46 @@
 ### Tech Stacks
 
 ##### Learning
+<p align="left">
+ <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/> &nbsp;
+ <img title="Next JS" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>&nbsp;
+ <img title="Vue JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="35" height="35"/>
+</p>
+
 
 ##### Front-End Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-fff?style=flat-curve&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-2AB7F6?style=flat-curve&logo=css3)
-![Javascript](https://img.shields.io/badge/-JavaScript-323330?style=flat-curve&logo=javascript)
-![React](https://img.shields.io/badge/-ReactJs-black?style=flat-curve&logo=react)
-
 <p align="left">
 <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
 <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/> &nbsp;
-<img title="React JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
-<img title="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>&nbsp;
-<img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<img title="React JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="37" height="37"/>&nbsp;
+<img title="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="36" height="36"/>&nbsp;
+<img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="38" height="38"/>
 </p>
 
 
 ##### Back-End Stack
-
-![Node](https://img.shields.io/badge/-Node.js-215732?style=flat-curve&logo=node.js)
-![Express](https://img.shields.io/badge/-express.js-215732?style=curve-square&logo=express)
-![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-curve&logo=Firebase)
+<p align="left">
+<img title="Node JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;
+<img title="Express JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&nbsp;
+<img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="38" height="38"/>&nbsp;
+ <img title="Mongo DB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+ <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
 
 
 ##### Programming Languages
+<p align="left">
+<img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/>&nbsp;
+<img title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</p>
 
-![C++](https://img.shields.io/badge/-C++-306998?style=flat-curve&logo=cplusplus)
-![Javascript](https://img.shields.io/badge/-JavaScript-323330?style=flat-curve&logo=javascript)
 
-
-### List of things I have worked with
-
-##### Version Control
-
-![Git](https://img.shields.io/badge/-Git-181717?style=flat-curve&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-curve&logo=github)
-
-##### Tools
-![VsCode](https://img.shields.io/badge/-VsCode-181717?style=flat-curve&logo=VS)
-
+##### Others
+<p align="left">
+<img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
+<img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
 
 
 ## 📊 My Github Stats
