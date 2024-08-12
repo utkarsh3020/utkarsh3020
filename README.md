@@ -4,14 +4,14 @@
 ### I am a passionate MERN stack web developer who loves creating scalable and efficient web applications. I'm enthusiastic about learning new technologies and solving real-world problems through innovative solutions.
 <br>
 
-## 🚀Connect with me on
+## 🚀 Connect with me on
  <p align="left">
 <a href="https://www.linkedin.com/in/utkarshguptta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshgupta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/er_utkarshguptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshgupta" height="30" width="40" /></a>
 </p>
 <br>
 
-## ⚙️Tech Stacks
+## ⚙️ Tech Stacks
 
 #### 💡 Learning
 <p align="left">
@@ -32,29 +32,29 @@
 </p>
 
 
-#### 🛢️Back-End Stack
+#### 🛢️ Back-End Stack
 <p align="left">
-<img title="Node JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>&nbsp;
+<img title="Node JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> &nbsp;
 <img title="Express JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>&nbsp;
 <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
- <img title="Mongo DB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/>&nbsp;
+ <img title="Mongo DB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/> &nbsp;
  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/>
 </p>
 
 
-#### 💻Programming Languages
+#### 💻 Programming Languages
 <p align="left">
 <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/>&nbsp;
 <img title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 </p>
 
 
-#### 🔧Others
+#### 🔧 Others
 <p align="left">
 <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
 <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="38" height="38"/>
 </p>
-
+<br>
 
 ## 📊 My Github Stats
 
@@ -62,5 +62,3 @@
     <a href="https://github.com/utkarsh3020/github-readme-stats"><img alt="Utkarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=utkarsh3020&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/utkarsh3020/github-readme-stats"><img alt="Utkarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh3020&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
    <br/>
-  <a href="https://github.com/utkarsh3020/github-readme-stats"><img alt="Utkarsh's Top Languages" src="https://github-profile-trophy.vercel.app/?username=utkarsh3020&theme=radical" /></a>
-  <br/>
