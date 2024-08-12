@@ -4,16 +4,16 @@
 ### I am a passionate MERN stack web developer who loves creating scalable and efficient web applications. I'm enthusiastic about learning new technologies and solving real-world problems through innovative solutions.
 <br>
 
-#### Connect with me on -
+## 🚀Connect with me on
+ <p align="left">
+<a href="https://www.linkedin.com/in/utkarshguptta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshgupta" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/er_utkarshguptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshgupta" height="30" width="40" /></a>
+</p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/utkarsh-gupta-209799204)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/utkarshguptta/)
-[<img src ="https://img.shields.io/badge/Mail-Here-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:er.utkarshguptaa@gmail.com)
 
+## ⚙️Tech Stacks
 
-### Tech Stacks
-
-##### Learning
+### 💡Learning
 <p align="left">
  <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/> &nbsp;
  <img title="Next JS" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@
 </p>
 
 
-##### Front-End Stack
+### 🌐Front-End Stack
 <p align="left">
 <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@
 </p>
 
 
-##### Back-End Stack
+### 🛢️Back-End Stack
 <p align="left">
 <img title="Node JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;
 <img title="Express JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&nbsp;
@@ -42,14 +42,14 @@
 </p>
 
 
-##### Programming Languages
+### 💻Programming Languages
 <p align="left">
 <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/>&nbsp;
 <img title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 </p>
 
 
-##### Others
+### 🔧Others
 <p align="left">
 <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
 <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -57,8 +57,6 @@
 
 
 ## 📊 My Github Stats
-
-  <br/>
     <a href="https://github.com/utkarsh3020/github-readme-stats"><img alt="Utkarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=utkarsh3020&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/utkarsh3020/github-readme-stats"><img alt="Utkarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh3020&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
    <br/>
